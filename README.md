@@ -5,8 +5,8 @@
 🔭 I’m currently working on FlTools.
 
 📫 How to reach me:
-QQ: 1812496278
-Email: 1812496278@qq.com
+- QQ: 1812496278
+- Email: 1812496278@qq.com
 
 [![ItsFlicker's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsFlicker&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
