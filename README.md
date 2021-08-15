@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on TrChat.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlickerProjects&repo=TrChat)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlickerProjects&repo=TrChat)](https://github.com/FlickerProjects/TrChat)
 
 📫 How to reach me:
 - QQ: 1812496278
