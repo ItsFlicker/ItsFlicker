@@ -2,7 +2,9 @@
 
 😀 I'm a junior high school student,and I am interested in developing minecraft plugins.
 
-🔭 I’m currently working on FlTools.
+🔭 I’m currently working on TrChat.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlickerProjects&repo=TrChat)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 How to reach me:
 - QQ: 1812496278
