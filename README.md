@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-😀 I'm a junior high school student,and I am interested in developing minecraft plugins.
-
-🔭 I’m currently working on TrChat.
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlickerProjects&repo=TrChat)](https://github.com/FlickerProjects/TrChat)
 
 📫 How to reach me:
