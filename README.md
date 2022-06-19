@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlickerProjects&repo=TrChat)](https://github.com/FlickerProjects/TrChat)
-
 📫 How to reach me:
 - QQ: 1812496278
 - Email: 1812496278@qq.com
